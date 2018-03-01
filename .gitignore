@@ -1,1 +1,9 @@
+# private mongodb atlas connection information
+connectionstring.py
+
+# aux folders
 .ipynb_checkpoints/
+__pycache__/
+
+# no need to track data folder
+data/
